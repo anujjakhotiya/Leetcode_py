@@ -11,4 +11,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/anujjakhotiya/Leetcode_py/tree/master/2660-determine-the-winner-of-a-bowling-game) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/anujjakhotiya/Leetcode_py/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/anujjakhotiya/Leetcode_py/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/anujjakhotiya/Leetcode_py/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
