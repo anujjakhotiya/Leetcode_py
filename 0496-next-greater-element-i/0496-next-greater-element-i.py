@@ -1,12 +1,16 @@
-class Solution(object):
-    def nextGreaterElement(self, nums1, nums2):
-        stack = []
-        greater = {}
-        for x in nums2:
-            while stack and stack[-1] < x:
-                greater[stack.pop()] = x
-            stack.append(x)
-        ans = []
-        for x in nums1:
-            ans.append(greater.get(x, -1))
-        return ans
+class Solution:
+    def nextGreaterElement(self, nums1: list[int], nums2: list[int]) -> list[int]:
+        stack=[]
+        d={}
+        for n in nums2:
+            while stack and n>stack[-1]:
+                t=stack.pop()
+                d[t]=n
+            stack.append(n)
+        while len(stack)!=0:
+            t=stack.pop()
+            d[t]=-1
+        res=[]
+        for n in nums1:
+            res.append(d.get(n,-1))
+        return res
