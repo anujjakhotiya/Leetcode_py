@@ -16,18 +16,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/anujjakhotiya/Leetcode_py/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anujjakhotiya/Leetcode_py/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0496-next-greater-element-i) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/anujjakhotiya/Leetcode_py/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anujjakhotiya/Leetcode_py/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/anujjakhotiya/Leetcode_py/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/anujjakhotiya/Leetcode_py/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
@@ -38,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0496-next-greater-element-i) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
