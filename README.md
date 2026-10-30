@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0027-remove-element) |
 | [0496-next-greater-element-i](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/anujjakhotiya/Leetcode_py/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/anujjakhotiya/Leetcode_py/tree/master/2660-determine-the-winner-of-a-bowling-game) |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
