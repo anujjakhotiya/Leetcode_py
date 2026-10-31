@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/anujjakhotiya/Leetcode_py/tree/master/1021-remove-outermost-parentheses) |
@@ -52,4 +53,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0027-remove-element) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0345-reverse-vowels-of-a-string) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
