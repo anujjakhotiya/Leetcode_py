@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/anujjakhotiya/Leetcode_py/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/anujjakhotiya/Leetcode_py/tree/master/2660-determine-the-winner-of-a-bowling-game) |
+| [3693-climbing-stairs-ii](https://github.com/anujjakhotiya/Leetcode_py/tree/master/3693-climbing-stairs-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0070-climbing-stairs) |
+| [3693-climbing-stairs-ii](https://github.com/anujjakhotiya/Leetcode_py/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
 |  |
 | ------- |
