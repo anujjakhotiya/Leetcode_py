@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0027-remove-element) |
+| [0200-number-of-islands](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0200-number-of-islands) |
 | [0496-next-greater-element-i](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/anujjakhotiya/Leetcode_py/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/anujjakhotiya/Leetcode_py/tree/master/2660-determine-the-winner-of-a-bowling-game) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0200-number-of-islands) |
 ## Math
 |  |
 | ------- |
@@ -97,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/anujjakhotiya/Leetcode_py/tree/master/1791-find-center-of-star-graph) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
