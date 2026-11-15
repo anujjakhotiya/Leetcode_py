@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/anujjakhotiya/Leetcode_py/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/anujjakhotiya/Leetcode_py/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [3693-climbing-stairs-ii](https://github.com/anujjakhotiya/Leetcode_py/tree/master/3693-climbing-stairs-ii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/anujjakhotiya/Leetcode_py/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/anujjakhotiya/Leetcode_py/tree/master/1791-find-center-of-star-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/anujjakhotiya/Leetcode_py/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find
 |  |
 | ------- |
@@ -108,4 +110,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/anujjakhotiya/Leetcode_py/tree/master/0200-number-of-islands) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/anujjakhotiya/Leetcode_py/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
